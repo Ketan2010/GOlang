@@ -1,2 +1,2 @@
 # GOlang
-Go language tutorial
+Go language basics
